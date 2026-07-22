@@ -1,0 +1,761 @@
+Teacher Clarity Summaries
+(11th)
+Planning
+
+Prompt
+Your Role: Act as an instructional coach specializing in Teacher Clarity (Hattie's $d = 0.75$).Your Task: Please take my raw lesson plan notes and other materials and format them into a clear, two-part "Clarity Summary."
+
+The final output must be clearly organized into these two parts:
+
+PART 1: Teacher Clarity Summary
+(This section is for planning, observation notes, and demonstrating alignment with the Teacher Clarity framework.)
+Relevant Standards: List the Common Core or state standards.
+Learning Intentions (The "What"): State the full learning goal(s) as "I can..." statements derived from the standards.
+Relevance (The "Why"): Briefly explain why students are learning this (e.g., connection to a larger unit, a real-world skill, or the standard's purpose).
+Success Criteria (The "How"): List the specific, observable "I can..." statements that show how a student will prove they met the Learning Intention in this specific task.
+
+PART 2: Student-Facing Whiteboard
+(This section must be concise, student-friendly, and formatted to copy directly onto a limited whiteboard space. You must synthesize the most critical "What, Why, and How" from Part 1.)
+WHAT: [A single, synthesized "I can..." statement.]
+WHY: [A single, concise sentence.]
+HOW: [1-3 of the most important, high-level Success Criteria, phrased as "I can..." or a checklist.]
+
+
+Prompt
+You are an AI assistant specializing in curriculum alignment with the 11th-12th grade California Common Core (CCSS) ELA standards. My goal is to identify all standards addressed by a given lesson, assignment, or set of materials.
+For context, this is for an 11-12th Grade College Prep ELA course.
+When I provide you with my lesson materials, please analyze them and provide a two-part response:
+Primary Focus Standards: List the main standards the lesson is designed to teach or assess. These are the "power standards" for this activity.
+Supporting/Inferred Standards: List the standards that are also being practiced or are implicitly required for the student to successfully complete the task (e.g., foundational skills like citing evidence, or process standards like planning/revising).
+For each standard you list in both categories, please provide:
+The full standard code (e.g., W.11-12.1.a).
+A brief justification explaining why it applies to the materials.
+Please confirm you understand this role and task, and I will provide the first set of materials.
+
+
+Reading Standards for Literature (RL.11-12)
+RL.11-12.1: Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain.
+RL.11-12.2: Determine two or more themes or central ideas of a text and analyze their development over the course of the text, including how they interact and build on one another to produce a complex account; provide an objective summary of the text.
+RL.11-12.3: Analyze the impact of the author’s choices regarding how to develop and relate elements of a story or drama (e.g., where a story is set, how the action is ordered, how the characters are introduced and developed).
+RL.11-12.4: Determine the meaning of words and phrases as they are used in the text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including words with multiple meanings or language that is particularly fresh, engaging, or beautiful. (Include Shakespeare as well as other authors.)
+RL.11-12.5: Analyze how an author’s choices concerning how to structure specific parts of a text (e.g., the choice of where to begin or end a story, the choice to provide a comedic or tragic resolution) contribute to its overall structure and meaning as well as its aesthetic impact.
+RL.11-12.6: Analyze a case in which grasping a point of view requires distinguishing what is directly stated in a text from what is really meant (e.g., satire, sarcasm, irony, or understatement).
+RL.11-12.7: Analyze multiple interpretations of a story, drama, or poem (e.g., recorded or live production of a play or recorded novel or poetry), evaluating how each version interprets the source text. (Include at least one play by Shakespeare and one play by an American dramatist.)
+RL.11-12.8: (Not applicable to literature)
+RL.11-12.9: Demonstrate knowledge of eighteenth-, nineteenth- and early-twentieth-century foundational works of American literature, including how two or more texts from the same period treat similar themes or topics.
+RL.11-12.10: By the end of grade 11, read and comprehend literature, including stories, dramas, and poems, in the grades 11–CCR text complexity band proficiently, with scaffolding as needed at the high end of the range. By the end of grade 12, read and comprehend literature, including stories, dramas, and poems, at the high end of the grades 11–CCR text complexity band independently and proficiently.
+
+
+Reading Standards for Informational Text (RI.11-12)
+RI.11-12.1: Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain.
+RI.11-12.2: Determine two or more central ideas of a text and analyze their development over the course of the text, including how they interact and build on one another to provide a complex analysis; provide an objective summary of the text.
+RI.11-12.3: Analyze a complex set of ideas or sequence of events and explain how specific individuals, ideas, or events interact and develop over the course of the text.
+RI.11-12.4: Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze how an author uses and refines the meaning of a key term or terms over the course of a text (e.g., how Madison defines faction in Federalist No. 10).
+RI.11-12.5: Analyze and evaluate the effectiveness of the structure an author uses in his or her exposition or argument, including whether the structure makes points clear, convincing, and engaging.
+RI.11-12.6: Determine an author’s point of view or purpose in a text in which the rhetoric is particularly effective, analyzing how style and content contribute to the power, persuasiveness, or beauty of the text.
+RI.11-12.7: Integrate and evaluate multiple sources of information presented in different media or formats (e.g., visually, quantitatively) as well as in words in order to address a question or solve a problem.
+RI.11-12.8: Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning (e.g., in U.S. Supreme Court majority opinions and dissents) and the premises, purposes, and arguments in works of public advocacy (e.g., The Federalist, presidential addresses).
+RI.11-12.9: Analyze seventeenth-, eighteenth-, and nineteenth-century foundational U.S. documents of historical and literary significance (including The Declaration of Independence, the Preamble to the Constitution, the Bill of Rights, and Lincoln’s Second Inaugural Address) for their themes, purposes, and rhetorical features.
+RI.11-12.10: By the end of grade 11, read and comprehend literary nonfiction in the grades 11–CCR text complexity band proficiently, with scaffolding as needed at the high end of the range. By the end of grade 12, read and comprehend literary nonfiction at the high end of the grades 11–CCR text complexity band independently and proficiently.
+
+Writing (W.11-12)
+W.11-12.1: Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.
+a. Introduce precise, knowledgeable claim(s), establish the significance of the claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that logically sequences claim(s), counterclaims, reasons, and evidence.
+b. Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience’s knowledge level, concerns, values, and possible biases.
+c. Use words, phrases, and clauses as well as varied syntax to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims.
+d. Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.
+e. Provide a concluding statement or section that follows from and supports the argument presented.
+W.11-12.2: Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.
+a. Introduce a topic or thesis statement; organize complex ideas, concepts, and information so that each new element builds on that which precedes it to create a unified whole; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.
+b. Develop the topic thoroughly by selecting the most significant and relevant facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience’s knowledge of the topic.
+c. Use appropriate and varied transitions and syntax to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts.
+d. Use precise language, domain-specific vocabulary, and techniques such as metaphor, simile, and analogy to manage the complexity of the topic.
+e. Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.
+f. Provide a concluding statement or section that follows from and supports the information or explanation presented (e.g., by articulating the implications or the significance of the topic).
+
+Writing (W.11-12)
+W.11-12.3: Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.
+a. Engage and orient the reader by setting out a problem, situation, or observation and its significance, establishing one or multiple point(s) of view, and introducing a narrator and/or characters; create a smooth progression of experiences or events.
+b. Use narrative techniques, such as dialogue, pacing, description, reflection, and multiple plot lines, to develop experiences, events, and/or characters.
+c. Use a variety of techniques to sequence events so that they build on one another to create a coherent whole and build toward a particular tone and outcome (e.g., a sense of mystery, suspense, growth, or resolution).
+d. Use precise words and phrases, telling details, and sensory language to convey a vivid picture of the experiences, events, setting, and/or characters.
+e. Provide a conclusion that follows from and reflects on what is experienced, observed, or resolved over the course of the narrative.
+W.11-12.4: Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience. (Grade-specific expectations for writing types are defined in standards 1–3 above.)
+W.11-12.5: Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience. (Editing for conventions should demonstrate command of Language standards 1–3 up to and including grades 11–12.)
+W.11-12.6: Use technology, including the Internet, to produce, publish, and update individual or shared writing products in response to ongoing feedback, including new arguments or information.
+W.11-12.7: Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.
+
+Writing (W.11-12)
+W.11-12.8: Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and overreliance on any one source and following a standard format for citation.
+W.11-12.9: Draw evidence from literary or informational texts to support analysis, reflection, and research.
+a. Apply grades 11–12 Reading standards to literature (e.g., "Demonstrate knowledge of eighteenth-, nineteenth- and early-twentieth-century foundational works of American literature, including how two or more texts from the same period treat similar themes or topics").
+b. Apply grades 11–12 Reading standards to literary nonfiction (e.g., "Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning [e.g., in U.S. Supreme Court majority opinions and dissents] and the premises, purposes, and arguments in works of public advocacy [e.g., The Federalist, presidential addresses]").
+W.11-12.10: Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of tasks, purposes, and audiences.
+
+
+Speaking and Listening Standards (SL.11-12)
+SL.11-12.1: Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11–12 topics, texts, and issues, building on others’ ideas and expressing their own clearly and persuasively.
+a. Come to discussions prepared, having read and researched material under study; explicitly draw on that preparation by referring to evidence from texts and other research on the topic or issue to stimulate a thoughtful, well-reasoned exchange of ideas.
+b. Work with peers to promote civil, democratic discussions and decision-making, set clear goals and deadlines, and establish individual roles as needed.
+c. Propel conversations by posing and responding to questions that probe reasoning and evidence; challenge ideas and conclusions regularly; and determine what additional information or research is required to deepen the investigation or complete the task.
+d. Respond thoughtfully to diverse perspectives; synthesize comments, claims, and evidence made on all sides of an issue; resolve contradictions when possible; and determine what additional information or research is required to deepen the investigation or complete the task.
+SL.11-12.2: Integrate multiple sources of information presented in diverse formats and media (e.g., visually, quantitatively, orally) in order to make informed decisions and solve problems, evaluating the credibility and accuracy of each source and noting any discrepancies among the data.
+SL.11-12.3: Evaluate a speaker’s point of view, reasoning, and use of evidence and rhetoric, assessing the stance, premises, links among ideas, word choice, points of emphasis, and tone used.
+SL.11-12.4: Present information, findings, and supporting evidence, conveying a clear and distinct perspective, such that listeners can follow the line of reasoning, alternative or opposing perspectives are addressed, and the organization, development, substance, and style are appropriate to purpose, audience, and a range of formal and informal tasks.
+SL.11-12.5: Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest.
+SL.11-12.6: Adapt speech to a variety of contexts and tasks, demonstrating a command of formal English when indicated or appropriate. (See grades 11–12 Language standards 1 and 3 for specific expectations.)
+
+
+
+Language Standards (L.11-12)
+L.11-12.1: Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.
+a. Apply the understanding that usage is a matter of convention, can change over time, and is sometimes contested.
+b. Resolve issues of complex or contested usage, consulting references (e.g., Merriam-Webster’s Dictionary of English Usage, Garner’s Modern American Usage) as needed.
+L.11-12.2: Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.
+a. Observe hyphenation conventions.
+b. Spell correctly.
+L.11-12.3: Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.
+a. Vary syntax for effect, consulting references (e.g., Tufte’s Artful Sentences) for guidance as needed; apply an understanding of syntax to the study of complex texts when reading.
+L.11-12.4: Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11–12 reading and content, choosing flexibly from a range of strategies.
+a. Use context (e.g., the overall meaning of a sentence, paragraph, or text; a word’s position or function in a sentence) as a clue to the meaning of a word or phrase.
+b. Identify and correctly use patterns of word changes that indicate different meanings or parts of speech (e.g., conceive, conception, conceivable).
+c. Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning, its part of speech, its etymology, or its standard usage.
+d. Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).
+L.11-12.5: Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.
+a. Interpret figures of speech (e.g., hyperbole, paradox) in context and analyze their role in the text.
+b. Analyze nuances in the meaning of words with similar denotations.
+L.11-12.6: Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.
+
+Success Criteria
+(General, by Essay Type)
+
+Argumentative Essay
+Planning & Thesis
+I can write a strong introduction with a clear hook and transition to thesis.
+I can write a single, complex thesis statement that takes a clear, debatable position on the prompt, and is the final sentence of the introductory paragraph.
+I can distinguish my claim(s) from alternate or opposing claims.
+I can create a "thesis map" by identifying the distinct reasons that support my thesis, which will become my topic sentences.
+Structure & Evidence
+I can structure my essay logically with an introduction, body paragraphs, a dedicated counterargument paragraph, and a conclusion.
+I can support my argument with well-organized body paragraphs that follow a clear “C-E-C” (Claim-Evidence-Commentary) or similar structure, and that move beyond simple restatement to explain how and why my evidence proves my topic sentence.
+I can synthesize and draw relevant evidence (facts, quotes, data) from at least three credible sources to support my claims, .
+I can properly embed quotes and paraphrases (including using signal phrases or attributive tags to establish the source's credibility), and follow with a correct in-text citation.
+I can introduce evidence using signal phrases or attributive tags that establish the source's credibility (e.g., "According to a study from Harvard..." or "As noted by historian Dr. Jane Doe...").
+I can write a clear conclusion that restates my thesis and wraps up my argument with a call to action or final insight on the topic.
+Analysis & Reasoning
+I can explain how and why my evidence proves my topic sentence, moving beyond simple restatement (the "E" in C-E-R).
+I can connect my analysis in each paragraph back to my main thesis to maintain a cohesive argument.
+Argumentation
+I can fairly and thoroughly develop my claims and counterclaims with the most relevant evidence.
+I can fairly present a strong opposing claim (counterargument) and support it with evidence, then refute the counterargument by explaining how the opposing claim is weak or invalid.
+I can make purposeful rhetorical choices (in tone, style, and use of ethos, pathos, logos) to persuade my intended audience.
+Conventions & Style
+I can maintain a formal style and objective tone.
+I can correctly use an appropriate citation style (e.g., MLA, APA) to credit my sources.
+I can correctly modify direct quotes using brackets [ ] (for clarity or grammar) and ellipses [...] (for omission).
+I can use appropriate transitions (including linking words) to connect my claims, evidence, and reasoning, and to guide the reader smoothly between paragraphs.
+I can create a correctly formatted Works Cited page and format my essay (heading, font, margins, spacing) according to MLA style guidelines.
+
+
+Informative / Explanatory Essay
+Planning & Thesis
+I can write a clear, objective, and focused thesis statement that states the topic and the main points I will explain.
+I can narrow a broad topic to a specific and manageable focus for the scope of the essay.
+Structure & Evidence
+I can structure my essay logically (e.g., by topic, chronologically, cause/effect) to make complex information easy to understand.
+I can follow a "C-E-R" structure where my "Claim" is a topic sentence, "Evidence" is a fact or detail, and "Reasoning" is an objective explanation.
+I can select relevant facts, definitions, concrete details, and examples from sources to develop my topic.
+Analysis & Reasoning
+I can explain what my evidence means and why it is important for understanding the topic (the "E" in C-E-R).
+I can analyze and explain the relationships between pieces of information (e.g., how this cause leads to that effect).
+I can maintain an objective tone throughout the essay, without inserting my personal opinions or arguments.
+
+Conventions & Style
+I can use precise language and domain-specific vocabulary appropriate for the topic.
+I can use transitions to clearly connect ideas and show the logical relationships between them (e.g., consequently, for example, in addition).
+I can provide a concluding statement that summarizes the main points and reinforces the topic's significance.
+
+
+
+Literary Analysis Essay
+Planning & Thesis
+I can write an interpretive, debatable thesis statement that makes a specific claim about the text's meaning, theme, character, or craft.
+I can move beyond a simple plot summary or obvious statement (e.g., "The author uses metaphors") to a true interpretation (e.g., "The author uses metaphors of decay to illustrate the main character's moral collapse").
+Structure & Evidence
+I can structure my essay logically around the key points of my analysis (not just a summary of the plot).
+I can select the best short, powerful direct quotes from the text that provide the strongest support for my claims.
+I can follow a "C-E-R" structure where my "Claim" is an interpretive topic sentence and my "Evidence" is a direct quote from the text.
+
+
+Analysis & Reasoning
+I can provide deep analysis (the "E" in C-E-R) that explains how and why my chosen quote proves my topic sentence, moving beyond restatement.
+I can analyze how the author's craft (e.g., literary devices, word choice, sentence structure, tone) creates meaning.
+I can connect my analysis in each paragraph back to my main thesis to build a cohesive interpretation.
+Conventions & Style
+I can properly introduce and integrate quotes so they flow smoothly into my own sentences.
+I can consistently use the present tense ("literary present") when discussing events and actions within the text.
+I can use proper MLA in-text citations, typically (Author Page#).
+
+Narrative Essay
+Planning & Purpose
+I can choose a specific, focused "small moment" from my life (not a summary of my entire life).
+I can establish a clear purpose or "so what" for my story—the central lesson or insight I want the reader to understand.
+Structure & Craft
+I can organize my story with a clear and engaging beginning (hook), middle (rising action/climax), and end (resolution).
+I can use vivid sensory details ("show, don't tell") to paint a picture and immerse the reader in the setting and action.
+I can use narrative techniques like pacing (slowing down or speeding up time), dialogue, and description to bring the story to life.
+Analysis & Reflection
+I can include my internal thoughts and feelings from the time of the event to show my perspective.
+I can include a clear moment of reflection (the "so what") that explains why this story matters, what I learned, or how it changed me.
+
+Conventions & Style
+I can use a consistent verb tense (usually past tense) to describe the events of the story.
+I can use a personal, authentic voice that sounds like me and fits the tone of the story.
+I can use transitions (e.g., later that day, suddenly, after that) to clearly show the passage of time and sequence of events.
+
+
+Assignments
+
+Inside the Character's Head💀 (Handout)
+Relevant Standards: CCSS.ELA-LITERACY.RL.11-12.3: "Analyze the impact of the author's choices regarding how to develop and relate elements of a story or drama... how the characters are introduced and developed."
+Learning Intentions (The "What"): "I can analyze how an author/creator develops a complex character (like a favorite horror character) and present that analysis visually and textually."
+Relevance (The "Why"): This project lets us apply our serious literary analysis skills to a high-interest character of our choice. It helps us prove we can analyze how a character is built, regardless of the genre.
+Success Criteria (The "How"):
+I can select a significant quote that reveals the character's personality or motivation.
+I can choose two images (concrete or abstract) that symbolize the character.
+I can identify three precise adjectives to describe the character.
+I can describe a key turning point event involving the character.
+I can correctly identify the character as static or dynamic and provide a brief explanation to justify my choice.
+I can identify the character's source (e.g., Frankenstein, Dracula, Stranger Things).
+I can present my analysis creatively , neatly , and with correct grammar and spelling , using an attractive color scheme with minimal white space.
+Key Exemplar(s) (The "Model"): We will look at the provided student-made examples for characters from Othello (like Cassio, Iago, and Roderigo) . We will use these as a model for the layout and requirements, even though our characters will be from different stories.
+
+Inside the Character's Head💀 (Handout)
+WHAT: I can analyze and visually represent a character's key traits (choose your favorite horror character, or another if you prefer!).
+WHY: To show we understand how and why an author or creator builds a character, even in a horror story.
+HOW:
+I can fill the "head" with all 9 rubric items (quote, images, adjectives, etc.).
+I can identify a key turning point for the character.
+I can correctly analyze if the character is static or dynamic and explain why.
+MODEL: The sample "Character Heads" from Othello (We're looking at how they are built, not who they are).
+
+Blackfish🌊🐬⚫ | 👑Culminating Writing Project: Teacher Clarity Summary (Administrative)
+Relevant Standards (Common Core ELA, Grades 11-12):
+W.11-12.1: Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.
+a: Introduce precise, knowledgeable claim(s)... distinguish claim(s) from alternate or opposing claims...
+b: Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant evidence...
+W.11-12.9: Draw evidence from literary or informational texts to support analysis, reflection, and research.
+RI.11-12.8: Delineate and evaluate the rhetorical force of specific claims in a text (e.g., as expressed in... Blackfish), assessing whether the reasoning is valid and the evidence is relevant and sufficient; identify false statements and fallacious reasoning.
+Learning Intentions (The "What"):
+I can write a 6-paragraph argumentative essay that supports a complex claim about the documentary Blackfish and the ethics of orca captivity.
+I can analyze how authors and filmmakers use rhetoric (ethos, pathos, logos) to persuade an audience.
+I can synthesize evidence from multiple sources (including a documentary and informational texts) to build an argument and refute a counterargument.
+Relevance (The "Why"):
+This project teaches you how to be a critical consumer of media. You will learn to identify how sources use rhetorical strategies (ethos, pathos, logos) to persuade you. This is a vital real-world skill for navigating complex public debates and forming your own evidence-based opinions.
+Success Criteria (The "How"):
+Planning & Thesis:
+I can write a single, complex thesis statement that answers both prompt questions: 1) my stance on the film's "truthfulness" and 2) my stance on the ethics of captivity.
+I can identify three distinct reasons that support my thesis, which will become my body paragraphs.
+Structure & Evidence:
+I can structure my essay into six required paragraphs: Introduction, Body Paragraph 1, Body Paragraph 2, Body Paragraph 3, Counterargument, and Conclusion.
+I can follow the provided "C-E-R" (Claim-Evidence-Reasoning) structure for my body paragraphs.
+I can cite evidence from the Blackfish documentary and at least five (5) other sources from the provided list.
+Analysis (The "E" in R-A-C-E-S):
+I can explain how my evidence proves my topic sentence.
+I can identify and analyze the specific rhetorical appeal (ethos, pathos, or logos) used in my evidence to show how it persuades the reader.
+Argumentation:
+I can fairly present a strong opposing claim (counterargument) with evidence.
+I can refute the counterargument using my own evidence and reasoning.
+Style & Conventions:
+I can write an engaging introduction with a hook and a strong conclusion that answers the "So What?" question.
+I can use correct MLA in-text citations for all my evidence.
+
+
+Blackfish🌊🐬⚫ | 👑Culminating Writing Project: Teacher Clarity Summary (Student-facing)
+WHAT: I can write a 6-paragraph essay using rhetorical analysis (ethos, pathos, logos) to argue my position on Blackfish and orca captivity.
+WHY: To learn how to critically analyze media and use evidence to build a strong, persuasive argument.
+HOW:
+Write a complex thesis that answers both prompt questions.
+Analyze ethos, pathos, or logos in the "E" (Explanation) for every body paragraph.
+Cite Blackfish + 5 other sources and include a full counterargument.
+
+Blackfish🌊🐬⚫ | 👑Culminating Writing Project: Standards Audit
+Primary Focus Standards
+These are the "power standards" that form the core of the assignment's purpose and assessment.
+W.11-12.1: Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.
+Justification: This is the anchor standard for the entire project. The 6-paragraph essay is a formal argument requiring a complex claim (the thesis), supporting reasons (body paragraphs), and a counterargument.
+W.11-12.1.a: Students must "Introduce precise, knowledgeable claim(s)" (the scaffolded thesis answering both prompt questions) and "distinguish the claim(s) from alternate or opposing claims" (the counterargument).
+W.11-12.1.b: Students must "Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant evidence." The C-E-R structure and the dedicated counterargument paragraph directly teach this.
+RI.11-12.8: Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning (e.g., in U.S. Supreme Court majority opinions and dissents) and the premises, purposes, and arguments in works of public advocacy (e.g., The Federalist, presidential addresses).
+Justification: This project asks students to treat Blackfish and the responding SeaWorld documents as "works of public advocacy." The prompt requires them to "evaluate the rhetoric," assess "whether the reasoning is valid," and identify "logical fallacies," which is the exact language of this standard.
+RI.11-12.6: Determine an author's point of view or purpose in a text in which the rhetoric is particularly effective, analyzing how style and content contribute to the power, persuasiveness, or beauty of the text.
+Justification: The prompt explicitly requires students to analyze how each side uses ethos, pathos, and logos to be persuasive. They are not just identifying these appeals, but analyzing how they contribute to the power of the argument, which is the heart of this standard.
+W.11-12.9: Draw evidence from literary or informational texts to support analysis, reflection, and research.
+Justification: This is a primary skill. The "C-E-R" (Claim-Evidence-Reasoning) structure is a direct model for this standard. Students must draw evidence from the "closed-universe" of informational texts (articles, transcripts) to support their "analysis" (the rhetorical explanation in the "E" block).
+
+Blackfish🌊🐬⚫ | 👑Culminating Writing Project: Standards Audit
+Supporting/Inferred Standards
+These are standards that are also being practiced or are foundational to successfully completing the primary task.
+RI.11-12.1: Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain.
+Justification: This is the foundational reading skill for W.11-12.9. Students must first find the "strong and thorough" evidence in the articles before they can cite it in their essays.
+RI.11-12.7: Integrate and evaluate multiple sources of information presented in different media or formats (e.g., visually, quantitatively) as well as in words in order to address a question or solve a problem.
+Justification: Students are explicitly required to integrate information from a film (visual media: Blackfish) and texts (the articles and transcripts) to address the central prompt questions.
+W.11-12.4: Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.
+Justification: The extensive scaffolding (the C-E-R structure, the paragraph-by-paragraph templates) is a direct instructional tool to ensure students' writing is organized and appropriate for the task (a formal argumentative essay).
+W.11-12.5: Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience.
+Justification: The 7-day drafting schedule (Blueprint -> P1 -> P2 -> P3 -> Counter -> Con -> Intro) is the writing process. The "Blueprint" Post-it note is a formal "planning" step, and the daily goals break down the "drafting" process.
+W.11-12.8: Gather relevant information from multiple authoritative print and digital sources... and integrate the information selectively... while avoiding plagiarism and following a standard format for citation.
+Justification: While the sources are "gathered" for them in this "closed-universe" project, students must "integrate the information selectively" (choosing the best quotes) and follow a standard format for citation (explicitly mentioned in the scaffold).
+L.11-12.3: Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.
+Justification: The rhetorical analysis component directly supports this. Students are analyzing how language functions (ethos, pathos, logos) to create persuasive meaning.
+
+Blackfish🌊🐬⚫ | 👑Culminating Writing Project: Standards Checklist
+Reading: Informational Text (RI)
+✅ RI.11-12.1
+✅ RI.11-12.2
+✅ RI.11-12.3
+❌ RI.11-12.4
+❌ RI.11-12.5
+✅ RI.11-12.6
+✅ RI.11-12.7
+✅ RI.11-12.8
+❌ RI.11-12.9
+✅ RI.11-12.10
+Writing (W)
+✅ W.11-12.1
+✅ W.11-12.1.a
+✅ W.11-12.1.b
+✅ W.11-12.1.c
+✅ W.11-12.1.d
+✅ W.11-12.1.e
+❌ W.11-12.2
+❌ W.11-12.2.a
+❌ W.11-12.2.b
+❌ W.11-12.2.c
+❌ W.11-12.2.d
+❌ W.11-12.2.e
+❌ W.11-12.2.f
+❌ W.11-12.3
+❌ W.11-12.3.a
+❌ W.11-12.3.b
+❌ W.11-12.3.c
+❌ W.11-12.3.d
+❌ W.11-12.3.e
+✅ W.11-12.4
+✅ W.11-12.5
+✅ W.11-12.6
+❌ W.11-12.7
+✅ W.11-12.8
+✅ W.11-12.9
+✅ W.11-12.10
+
+
+
+Blackfish🌊🐬⚫ | 👑Culminating Writing Project: Curriculum Gap Analysis (Based Solely on this Assignment)
+
+Blackfish project is a powerhouse for Argumentative Writing (W.1) and Rhetorical Analysis (RI.6, RI.8).
+The main categories you'll need to cover with other assignments to round out the 11th-12th grade standards are:
+1. Informative / Explanatory Writing
+What this is: This is the other major writing mode. Instead of arguing a point, students are explaining a complex topic, concept, or process. Think research reports, literary analysis essays, or "how-to" guides.
+Standards Not Covered: W.11-12.2 (and all its sub-standards, .a-f).
+2. Narrative Writing
+What this is: This is the creative writing standard. This project doesn't ask students to write a story, either real or imagined. This would be covered by personal essays, short stories, or memoir-style writing.
+Standards Not Covered: W.11-12.3 (and all its sub-standards, .a-e).
+3. Full-Process Research
+What this is: Your Blackfish project is a "closed-universe" assignment where sources are provided. This is an excellent scaffold. A "full-process" research standard requires students to also generate their own inquiry questions and find, vet, and gather their own sources from scratch.
+Standards Not Covered: W.11-12.7.
+4. Analysis of Foundational U.S. Documents
+What this is: This reading standard specifically focuses on analyzing the themes, purposes, and rhetoric of 17th-19th century historical U.S. documents (e.g., The Federalist Papers, foundational speeches, court opinions). Your current project rightly focuses on contemporary public advocacy.
+Standards Not Covered: RI.11-12.9.
+5. Analysis of Author's Craft (Structure & Vocabulary)
+What this is: Your project focuses on analyzing the argument and rhetoric (ethos, pathos, logos). These "missing" standards focus on a different kind of close reading: analyzing how an author structures their text (e.g., compare/contrast, chronological, problem/solution) and how their specific word choices (including figurative and technical language) refine the meaning.
+Standards Not Covered: RI.11-12.4 and RI.11-12.5.
+
+
+Teacher Clarity Summary (Administrative)
+
+
+Teacher Clarity Summary (Student-facing)
+
+
+Argumentative Research Essay⚖️: Standards Audit
+Primary Focus Standards
+These are the central standards these specific worksheets and activities are designed to teach and assess.
+W.11-12.1.a
+Justification: The Issue Identification & Public Poll and Analysis of Reasonably Debatable documents explicitly require students to distinguish between broad topics and specific, debatable claims. Students must refine their topic into a "Should" question that is "reasonably debatable" (neither a fact nor a landslide opinion), ensuring the introduction of a precise, knowledgeable claim.
+W.11-12.1.b
+Justification: The Initial Research worksheet (Part 7 & 8) specifically asks students to "Analyze the Opposition," find a counterpoint, and draft a "Rebuttal (Refutation)." This directly addresses the standard's requirement to develop claim(s) and counterclaims fairly, pointing out the strengths and limitations of both.
+W.11-12.7
+Justification: The entire packet represents a "sustained research project." Students are guided to narrow a topic (File 2), conduct background research (File 4), and synthesize multiple sources. The process of moving from a broad interest (e.g., "Video Games") to a specific inquiry demonstrates the skill of narrowing/broadening inquiry based on research.
+W.11-12.8
+Justification: This is heavily emphasized. The Group Activity: Don't Get Tangled in the Web and the CRAAP Test Worksheet are dedicated entirely to assessing the strengths and limitations of sources in terms of authority, accuracy, and purpose. The requirement to list URLs and identify "Legitimate Sites" (.edu, .gov) supports the standard's requirement for gathering relevant information and integrating it while avoiding plagiarism.
+Supporting / Inferred Standards
+These standards are practiced during the activities or are necessary prerequisites to complete the work successfully.
+W.11-12.4
+Justification: The Issue Identification worksheet asks students to identify a "Target Audience" for their argument. This aligns with producing writing in which the development and organization are appropriate to the task and audience.
+W.11-12.5
+Justification: The packet serves as a structured planning and revising tool. By breaking the essay into "Phase 1: Brainstorming," "Phase 2: Analysis," and "Initial Research," students are engaging in the planning and preparation necessary before drafting the full essay.
+SL.11-12.1
+Justification: The Group Activity: Don't Get Tangled in the Web and the Public Poll require collaborative discussion. Students must work in groups to create a poster regarding source validity and interact with peers to gather survey data, initiating and participating in a range of collaborative discussions.
+RI.11-12.7
+Justification: In the Analysis of Reasonably Debatable worksheet, students must integrate quantitative data (survey results) with qualitative analysis to solve a problem (determining if their topic is valid). This requires evaluating multiple sources of information (classmates' opinions) in different formats.
+L.11-12.6
+Justification: The Initial Research documents introduce and require the use of domain-specific academic vocabulary (e.g., "Refutation," "Secondary Source," "Legitimate Site," "Rebuttal"). Students must acquire and accurately use these terms to complete the assignment.
+
+
+Argumentative Research Essay⚖️: Standards Checklist
+
+Reading: Informational Text (RI)
+✅ RI.11-12.1 (Cite strong/thorough evidence) — Required in "Initial Research" (Direct Quotes/Citations).
+✅ RI.11-12.2 (Central ideas/Summary) — Required in "Background Research" (Summarizing context).
+❌ RI.11-12.3 (Analyze complex set of ideas) — Focus is on synthesis across texts, not deep analysis of one text’s internal structure.
+❌ RI.11-12.4 (Word choice/Tone) — Not explicitly practiced in these specific worksheets.
+❌ RI.11-12.5 (Structure of text) — Students are structuring their own text, not analyzing an author's structure.
+✅ RI.11-12.6 (Point of view/Rhetoric) — covered in "Analyzing the Opposition" & "CRAAP Test" (identifying bias/purpose).
+✅ RI.11-12.7 (Integrate multiple formats) — covered in "Public Poll" (Quantitative data) + "Web Research."
+✅ RI.11-12.8 (Evaluate reasoning/evidence) — The core of the "CRAAP Test" & "Don't Get Tangled in the Web."
+❌ RI.11-12.9 (Seminal U.S. Documents) — Depends on student topic, not mandated by the lesson.
+✅ RI.11-12.10 (Complex text range) — Inherently required by independent research.
+
+Writing (W)
+✅ W.11-12.1 (Argument) — The primary mode of the unit. 
+✅ W.11-12.1.a (Claims/Counterclaims) — Covered in "Issue Identification" & "Reasonably Debatable." 
+✅ W.11-12.1.b (Evidence/Audience) — Covered in "Initial Research" (Analysis of Opposition/Refutation). 
+✅ W.11-12.1.c (Transitions/Cohesion) — Covered in "MLA Research Paper Guide" (Structure). 
+✅ W.11-12.1.d (Precise language/Tone) — Covered in "MLA Research Paper Guide" (Academic Tone). 
+✅ W.11-12.1.e (Conclusion) — Covered in "MLA Research Paper Guide." 
+❌ W.11-12.2 (Informative/Explanatory) — This is strictly an Argumentative assignment. 
+❌ W.11-12.3 (Narrative) 
+✅ W.11-12.4 (Development/Audience) — Specific prompt in "Issue Identification" regarding Target Audience. 
+✅ W.11-12.5 (Planning/Revising) — The entire packet is a scaffolding/planning process. 
+✅ W.11-12.6 (Technology/Internet) — Heavily utilized in "Don't Get Tangled in the Web." 
+✅ W.11-12.7 (Sustained Research) — This is the defining standard of this unit. 
+✅ W.11-12.8 (Gather Info/Search Terms) — Covered in "Initial Research" & "CRAAP Test." 
+✅ W.11-12.9 (Draw evidence) — Required in "Initial Research" (Quote pulling). 
+✅ W.11-12.10 (Write routinely)
+
+Argumentative Research Essay⚖️: Standards Checklist
+
+Speaking & Listening (SL)
+✅ SL.11-12.1 (Collaborative discussion) — Required in "Group Activity" (Poster) & "Public Poll." 
+✅ SL.11-12.2 (Integrate multiple sources) — Synthesizing the Poll Data (Classroom) with Research (Web). 
+❌ SL.11-12.3 (Eval. Speaker's POV) — Not evaluating a speech/speaker in this unit. 
+✅ SL.11-12.4 (Presenting Info) — Implied in the "Poster" creation and "Public Poll" interaction.
+✅ SL.11-12.5 (Digital Media in presentations) — The "Don't Get Tangled" poster asks for visual guides.
+Language (L)
+✅ L.11-12.1 (Grammar/Usage) — Addressed in "MLA Research Paper" guide. 
+✅ L.11-12.2 (Mechanics/Spelling) — Addressed in "MLA Research Paper" guide (Citations). 
+✅ L.11-12.3 (Language Variance) — Addressed in "MLA Research Paper" guide (Style). 
+❌ L.11-12.4 (Context Clues) — Not explicitly taught in worksheets. 
+❌ L.11-12.5 (Figurative Language) — Not a focus of research writing. 
+✅ L.11-12.6 (Academic Vocabulary) — Terms: Refutation, Rebuttal, Secondary Source, Debatable.
+
+
+Argumentative Research Essay⚖️: Curriculum Gap Analysis
+(Based Solely on this Assignment)
+
+Based on the strong focus on Argumentation and Independent Research in this unit, you have significant gaps in Literature (Fiction), Narrative/Explanatory Writing, and Rhetorical Analysis of Speeches.
+Here is a breakdown of what is missing and specific assignment types to "round out" your year.
+1. Reading: Literature (RL) - The Biggest Gap
+Since this unit was 100% Non-Fiction/Informational, you haven't touched the Literature strand yet. You need a unit centered on a novel, play, or poetry collection.
+❌ All RL Standards (RL.11-12.1 through RL.11-12.10)
+The Fix: A Literary Analysis Unit (e.g., The Great Gatsby, Hamlet, or a Dystopian Lit Circles unit).
+Key Skills to Hit: Analyzing theme development, character interaction, structure choices, and interpreting figurative language.
+2. Reading: Informational Text (RI) - Specific Gaps
+You covered the "Evaluation" standards (RI.7, RI.8) well, but missed the "Analysis of Rhetoric/Style" standards.
+❌ RI.11-12.4 (Style & Tone): Analyzing how an author's specific word choices refine meaning or tone (e.g., satire, irony, understatement).
+❌ RI.11-12.5 (Structure): Analyzing how an author structures a text to make a point effective.
+❌ RI.11-12.9 (Seminal U.S. Documents): You need to analyze 17th, 18th, or 19th-century foundational documents (e.g., The Declaration of Independence, The Bill of Rights, Lincoln’s Second Inaugural).
+The Fix: A "Rhetoric of Freedom" Mini-Unit. Read a Founding Document alongside a modern speech (e.g., MLK Jr.). This hits RI.9 (History) and RI.4/5 (Rhetoric).
+3. Writing (W) - Modes of Writing
+You have nailed Argumentation (W.1), but the Common Core requires three distinct modes of writing.
+❌ W.11-12.2 (Informative/Explanatory): Writing to convey complex ideas clearly without arguing for a specific side.
+The Fix: A "Definition Essay" or "Process Analysis" (e.g., explaining a complex scientific concept or historical event).
+❌ W.11-12.3 (Narrative): Writing real or imagined experiences.
+The Fix: The College Personal Insight Question (PIQ) or Personal Statement. This is the perfect 12th-grade assignment to hit W.3 (narrative techniques) while being practically useful for college apps.
+4. Speaking & Listening (SL) - Evaluation of Speech
+You did "Collaborative Discussions" (SL.1), but you missed the "Evaluation" of a speaker.
+❌ SL.11-12.3 (Evaluate a Speaker): Evaluating a speaker's point of view, reasoning, and use of evidence/rhetoric.
+The Fix: TED Talk Analysis or Debate Judging. Have students watch a speech/debate and evaluate the speaker's rhetorical strategies and logical fallacies.
+5. Language (L) - Nuance & Acquisition
+❌ L.11-12.5 (Figurative Language): Understanding figures of speech, hyperbole, and nuance.
+The Fix: This pairs naturally with the Literature Unit (Poetry analysis).
+
+Summary: Proposed Curriculum Map to Finish the Year
+To clear the board of all remaining red ❌ marks, you only need three more major assignments:
+The "College Essay" (Narrative): Covers W.3 (Narrative) and W.5 (Revision).
+The "American Rhetoric" Unit: Read a historical speech (Declaration/Lincoln). Covers RI.9 (Seminal Docs), RI.4/5 (Rhetoric), and SL.3 (Evaluate Speaker).
+The Literature Unit: Read one major novel or play. Covers All RL Standards.
+
+
+Curriculum Gap Analysis (Cumulative - Based on Sequence)
+
+This checklist combines the coverage from the Blackfish Project and the Argumentative Research Essay.
+Legend: ✅ = Covered (Addressed in at least one of the two assignments). ❌ = MISSING (Has not been adequately addressed yet).
+Reading: Literature (RL)
+Status: Entire strand is currently a gap. ❌ RL.11-12.1 (Cite evidence - Lit) ❌ RL.11-12.2 (Themes/Summary - Lit) ❌ RL.11-12.3 (Elements/Choices - Lit) ❌ RL.11-12.4 (Word Choice/Tone - Lit) ❌ RL.11-12.5 (Structure/Choices - Lit) ❌ RL.11-12.6 (POV/Satire/Irony) ❌ RL.11-12.7 (Multiple Interpretations) ❌ RL.11-12.10 (Text Complexity - Lit)
+Reading: Informational Text (RI)
+Status: Strong on evaluation and synthesis; gaps in style and history. ✅ RI.11-12.1 (Cite evidence) ✅ RI.11-12.2 (Central Ideas) ✅ RI.11-12.3 (Analyze Interaction of Ideas) — Covered by Blackfish ❌ RI.11-12.4 (Figurative Language/Tone) — Needs Rhetorical Analysis unit ❌ RI.11-12.5 (Structure/Effectiveness) — Needs Rhetorical Analysis unit ✅ RI.11-12.6 (POV/Rhetoric) ✅ RI.11-12.7 (Integrate Formats/Media) ✅ RI.11-12.8 (Evaluate Reasoning/Validity) ❌ RI.11-12.9 (Seminal U.S. Documents) — Needs Historical/Foundational text ✅ RI.11-12.10 (Text Complexity)
+Writing (W)
+Status: Argumentation is complete; Narrative and Explanatory are missing. ✅ W.11-12.1 (Argument) ✅ W.11-12.1.a - e (Sub-standards for Argument) ❌ W.11-12.2 (Informative/Explanatory) ❌ W.11-12.2.a - f (Sub-standards for Info/Exp) ❌ W.11-12.3 (Narrative) ❌ W.11-12.3.a - e (Sub-standards for Narrative) ✅ W.11-12.4 (Development/Audience) ✅ W.11-12.5 (Planning/Revising) ✅ W.11-12.6 (Technology/Publishing) ✅ W.11-12.7 (Short & Sustained Research) — Covered by Research Essay (filled Blackfish gap) ✅ W.11-12.8 (Gather Info/Search Terms) ✅ W.11-12.9 (Draw Evidence) ✅ W.11-12.10 (Write Routinely)
+Speaking & Listening (SL)
+Status: Collaboration is done; Presentation and Evaluation are gaps. ✅ SL.11-12.1 (Collaborative Discussions) ✅ SL.11-12.2 (Integrate Multiple Sources) ❌ SL.11-12.3 (Evaluate a Speaker’s Point of View/Rhetoric) ✅ SL.11-12.4 (Presenting Info/Argument) ✅ SL.11-12.5 (Digital Media) ❌ SL.11-12.6 (Adapt Speech to Context) — Requires a formal oral presentation
+Language (L)
+Status: Mechanics are good; Nuance and acquisition are gaps. ✅ L.11-12.1 (Grammar/Usage) ✅ L.11-12.2 (Mechanics/Spelling) ✅ L.11-12.3 (Language Variance/Style) ❌ L.11-12.4 (Vocab Acquisition/Context Clues/Etymology) ❌ L.11-12.5 (Figurative Language/Nuance) ✅ L.11-12.6 (Academic Vocabulary)
+
+
+Great Gatsby|👑|💰🍸 👑Culminating Writing Project: Teacher Clarity Summary (Administrative)
+Relevant Standards (Common Core ELA, Grades 11-12):
+CCSS.ELA-LITERACY.RL.11-12.1
+Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.
+CCSS.ELA-LITERACY.RL.11-12.7
+Analyze multiple interpretations of a story, evaluating how each version interprets the source text.
+CCSS.ELA-LITERACY.W.11-12.1
+Write arguments to support claims using valid reasoning and relevant evidence.
+CCSS.ELA-LITERACY.W.11-12.2
+Write informative/explanatory texts to examine and convey complex ideas clearly and accurately.
+Learning Intentions (The "What"):
+I can analyze how Baz Luhrmann’s 2013 film adaptation of The Great Gatsby interprets the novel differently.
+I can develop an argumentative literary analysis that explains what those differences reveal about theme, character, society, illusion vs. reality, or the American Dream.
+I can support my claim with strong textual evidence from both the film and one assigned version of the novel.
+Relevance (The "Why"):
+Students are learning this to strengthen their ability to analyze how meaning changes across different interpretations of the same story. This builds college- and career-ready skills in literary analysis, argument writing, and media literacy.
+Understanding adaptation choices also deepens students’ understanding of theme, authorial/directorial purpose, and how storytelling shapes audience interpretation — key skills in upper-level English and AP coursework.
+Success Criteria (The "How"):
+Students will demonstrate mastery when they can:
+I can write a clear thesis that makes a specific claim about three differences between the film and novel and what those differences reveal about meaning.
+I can introduce and analyze three specific adaptation differences from the approved list (e.g., Frame Story, Race, Gatsby’s Death and Funeral, etc.).
+I can include evidence from both the film and the novel in each body paragraph.
+I can explain (not summarize) how the difference shifts emphasis, interpretation, or meaning.
+I can connect each paragraph’s analysis back to my overall claim.
+I can use proper MLA in-text citations.
+I can move beyond “what happens” to explain why the change matters (theme, character, society, illusion-reality gap, American Dream).
+
+Great Gatsby|👑|💰🍸 👑Culminating Writing Project: Teacher Clarity Summary (Student-facing)
+WHAT: I can analyze how the 2013 Great Gatsby film interprets the novel differently and explain what those differences reveal about the story’s meaning.
+WHY: Understanding adaptation choices helps me think critically about theme, character, and how stories shape meaning.
+HOW:
+I can make a clear claim about 3 major differences.
+I can use evidence from both the film and the novel.
+I can explain what each difference reveals about a bigger idea (theme, society, American Dream, etc.).
+
+Great Gatsby|👑|💰🍸 👑Culminating Writing Project: Standards Audit
+Primary Focus Standards
+These are the "power standards" that form the core of the assignment's purpose and assessment.
+RL.11-12.7
+
+Analyze multiple interpretations of a story, drama, or poem (e.g., recorded or live production), evaluating how each version interprets the source text.
+
+Justification:
+The core task requires students to compare Baz Luhrmann’s 2013 film adaptation with one version of the novel and analyze how the adaptation interprets the text differently. This is the central skill of the assignment (adaptation analysis and interpretation).
+
+W.11-12.1
+
+Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.
+
+Justification:
+Students must develop a thesis that makes a claim about three adaptation differences and argue what those differences reveal about meaning. The assignment explicitly requires a defensible interpretive position, not summary.
+
+W.11-12.1.a
+
+Introduce precise, knowledgeable claim(s), establish significance, and organize the claim(s) and reasons clearly.
+
+Justification:
+Students must craft a thesis identifying three specific differences and what they reveal about theme, character, society, illusion–reality gap, or the American Dream.
+
+W.11-12.1.b
+
+Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant evidence.
+
+Justification:
+Each paragraph requires textual evidence from both the film and novel and explanation of how differences shift meaning. Students must use precise comparative reasoning.
+
+W.11-12.1.c
+
+Use words, phrases, and clauses to link sections of the text and clarify relationships between claim(s) and reasons.
+
+Justification:
+The scaffold explicitly teaches transitions and contrast frames (e.g., “Unlike the novel… the film emphasizes…”), directly aligning to this standard.
+
+W.11-12.1.e
+
+Provide a concluding statement that follows from and supports the argument presented.
+
+Justification:
+The assignment includes summary statements and paragraph-level conclusions explaining “why this difference matters.”
+
+RL.11-12.2
+
+Determine two or more themes or central ideas and analyze their development.
+
+Justification:
+Students must determine what adaptation differences reveal about theme (American Dream, illusion vs. reality, society, etc.) and analyze how those ideas are emphasized differently.
+
+RL.11-12.3
+
+Analyze the impact of the author’s choices regarding how to develop and relate elements of a story (e.g., character development, structure, point of view).
+
+Justification:
+Students analyze how Fitzgerald’s authorial choices and Luhrmann’s directorial choices shape meaning through characterization, structure (frame story), and events.
+
+Great Gatsby|👑|💰🍸 👑Culminating Writing Project: Standards Audit
+Supporting/Inferred Standards
+These are standards that are also being practiced or are foundational to successfully completing the primary task.
+RL.11-12.1
+
+Cite strong and thorough textual evidence to support analysis.
+
+Justification:
+Students must include direct quotes from the novel and paraphrased film evidence with MLA citation in every paragraph.
+
+W.11-12.2
+
+Write informative/explanatory texts to examine and convey complex ideas clearly.
+
+Justification:
+Although argumentative in structure, the task requires analytical explanation of how adaptation choices shape meaning.
+
+W.11-12.4
+
+Produce clear and coherent writing appropriate to task, purpose, and audience.
+
+Justification:
+Students must transform scaffolded prompts into a polished academic literary analysis.
+
+W.11-12.5
+
+Develop and strengthen writing through planning, revising, editing, rewriting.
+
+Justification:
+The multi-day timeline and scaffolded drafting process (thesis → paragraph 1 → paragraph 2 → paragraph 3) indicate structured drafting and revision.
+
+W.11-12.8
+
+Gather relevant information from multiple sources and integrate information selectively.
+
+Justification:
+Students integrate evidence from two mediums (film + novel) and synthesize them in comparative analysis.
+
+W.11-12.9.a
+
+Draw evidence from literary texts to support analysis.
+
+Justification:
+This is explicitly required in every paragraph through quoted textual evidence and MLA citation.
+
+SL.11-12.1 (If discussion precedes writing)
+
+Initiate and participate effectively in collaborative discussions.
+
+Justification:
+If students analyze differences in discussion before writing (implied by presentation materials), this standard is practiced.
+
+L.11-12.1 & L.11-12.2
+
+Demonstrate command of grammar, usage, capitalization, punctuation, and spelling.
+
+Justification:
+Formal MLA formatting, integration of quotations, and academic structure require advanced conventions control.
+
+L.11-12.3
+
+Apply knowledge of language to make effective choices for meaning and style.
+
+Justification:
+Students must use precise analytical verbs (e.g., “emphasizes,” “reframes,” “suggests”) and formal academic tone.
+
+Great Gatsby|👑|💰🍸 👑Culminating Writing Project: Core Instructional Target
+The Core Instructional Target:
+Adaptation analysis (RL.11-12.7)
+
+Argumentative literary analysis writing (W.11-12.1)
+
+Thematic and authorial choice analysis (RL.11-12.2, RL.11-12.3)
+
+This assignment strongly aligns with upper-grade college preparatory rigor, particularly in comparative interpretation and argumentative analysis.
+
+Great Gatsby|👑|💰🍸 👑Culminating Writing Project: Standards Checklist
+Reading: Literature (RL)
+
+✅ RL.11-12.1
+✅ RL.11-12.2
+✅ RL.11-12.3
+❌ RL.11-12.4
+❌ RL.11-12.5
+✅ RL.11-12.6
+✅ RL.11-12.7
+❌ RL.11-12.9
+✅ RL.11-12.10
+
+Reading: Informational Text (RI)
+
+❌ RI.11-12.1
+❌ RI.11-12.2
+❌ RI.11-12.3
+❌ RI.11-12.4
+❌ RI.11-12.5
+❌ RI.11-12.6
+❌ RI.11-12.7
+❌ RI.11-12.8
+❌ RI.11-12.9
+❌ RI.11-12.10
+
+Writing (W)
+
+✅ W.11-12.1
+✅ W.11-12.1.a
+✅ W.11-12.1.b
+✅ W.11-12.1.c
+❌ W.11-12.1.d
+✅ W.11-12.1.e
+
+❌ W.11-12.2
+❌ W.11-12.3
+
+✅ W.11-12.4
+✅ W.11-12.5
+✅ W.11-12.6
+❌ W.11-12.7
+✅ W.11-12.8
+✅ W.11-12.9
+✅ W.11-12.10
+
+Speaking & Listening (SL)
+
+❌ SL.11-12.1
+❌ SL.11-12.2
+❌ SL.11-12.3
+❌ SL.11-12.4
+❌ SL.11-12.5
+❌ SL.11-12.6
+
+Language (L)
+
+✅ L.11-12.1
+✅ L.11-12.2
+✅ L.11-12.3
+❌ L.11-12.4
+❌ L.11-12.5
+❌ L.11-12.6	
+
+
+Great Gatsby|👑|💰🍸 👑Culminating Writing Project: Curriculum Gap Analysis (Based Solely on this Assignment)
+
+Blackfish project is a powerhouse for Argumentative Writing (W.1) and Rhetorical Analysis (RI.6, RI.8).
+The main categories you'll need to cover with other assignments to round out the 11th-12th grade standards are:
+1. Informative / Explanatory Writing
+What this is: This is the other major writing mode. Instead of arguing a point, students are explaining a complex topic, concept, or process. Think research reports, literary analysis essays, or "how-to" guides.
+Standards Not Covered: W.11-12.2 (and all its sub-standards, .a-f).
+2. Narrative Writing
+What this is: This is the creative writing standard. This project doesn't ask students to write a story, either real or imagined. This would be covered by personal essays, short stories, or memoir-style writing.
+Standards Not Covered: W.11-12.3 (and all its sub-standards, .a-e).
+3. Full-Process Research
+What this is: Your Blackfish project is a "closed-universe" assignment where sources are provided. This is an excellent scaffold. A "full-process" research standard requires students to also generate their own inquiry questions and find, vet, and gather their own sources from scratch.
+Standards Not Covered: W.11-12.7.
+4. Analysis of Foundational U.S. Documents
+What this is: This reading standard specifically focuses on analyzing the themes, purposes, and rhetoric of 17th-19th century historical U.S. documents (e.g., The Federalist Papers, foundational speeches, court opinions). Your current project rightly focuses on contemporary public advocacy.
+Standards Not Covered: RI.11-12.9.
+5. Analysis of Author's Craft (Structure & Vocabulary)
+What this is: Your project focuses on analyzing the argument and rhetoric (ethos, pathos, logos). These "missing" standards focus on a different kind of close reading: analyzing how an author structures their text (e.g., compare/contrast, chronological, problem/solution) and how their specific word choices (including figurative and technical language) refine the meaning.
+Standards Not Covered: RI.11-12.4 and RI.11-12.5.
+
