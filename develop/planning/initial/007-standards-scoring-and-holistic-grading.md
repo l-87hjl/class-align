@@ -7,15 +7,24 @@ The rubric design needs to preserve an important distinction between:
 - Standards-based evidence about a student's level of competency
 - The holistic judgment that determines most of the assignment grade
 
-The current numerical labels and exact Google Classroom limits still need to be verified against the source files. The concepts below are more important than the presently remembered numbers.
+The current numerical labels still need to be verified against the source files. Google Classroom's present platform limits have now been confirmed from Google's official documentation.
 
-## Google Classroom rubric constraint
+## Google Classroom rubric and learning-goal limits
 
-Google Classroom imposes a limit on the number of rubric criteria or available slots. The exact limit should be confirmed from the existing directions file rather than inferred from memory.
+Google Classroom currently allows up to 10 learning goals to be tagged to a single classwork item.
 
-Within that limited structure, one criterion or slot is reserved for a holistic component reflecting the teacher's broader grading philosophy.
+Separately, a Google Classroom rubric can contain up to 50 criteria, with up to 10 performance levels per criterion.
 
-The remaining criteria may represent standards assessed by the assignment.
+These are different limits. A holistic rubric criterion does not consume one of the 10 learning-goal tags unless it is itself linked to a learning goal.
+
+The planned structure can therefore support:
+
+- Up to 10 standards or learning goals linked to standards-specific rubric criteria
+- One additional holistic criterion with its own point values
+
+That produces 11 rubric criteria in the maximum intended case, which remains well below the 50-criterion rubric limit.
+
+The holistic row should ordinarily remain unlinked to a learning goal, while each standards row may be linked to one of the classwork item's tagged goals.
 
 ## Holistic criterion
 
@@ -132,7 +141,6 @@ This separation will help prevent an AI or import process from confusing a compl
 
 ## Items to verify later
 
-- The exact Google Classroom maximum for rubric criteria or standards slots
 - The exact current standards scale and its numeric values
 - Whether the existing rubric uses three or four performance levels
 - The current names and wording of each level
