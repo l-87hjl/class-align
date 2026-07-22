@@ -15,7 +15,7 @@ Updated: 2026-07-22 (Fable onboarding session). Update at every session end.
 - Implementation plan: docs/plans/implementation-plan.md (tiered WPs).
 - Intake: awaiting Geoff's two class-template zips → see docs/intake/INTAKE.md
   for the watched transfer folder and landing procedure. NOT YET ARRIVED
-  as of 2026-07-22.
+  as of 2026-07-22. UPDATE: arrived + processed 2026-07-22, three zips.
 
 ## Immediate next actions (in order)
 
@@ -24,6 +24,10 @@ Updated: 2026-07-22 (Fable onboarding session). Update at every session end.
 2. Execute WP C1.1 (corpus inventory + assignment grouping) on the
    unpacked materials.
 3. Then WP C2.x rubric-generation pipeline per the plan.
+
+Intake COMPLETE 2026-07-22: 175 template files across 10cp/11cp/9cp (see
+per-class INTAKE_RECORD.md); 4 full-text novels in protected/; C1.1
+corpus inventory partially satisfied, C1.2 grouping is next.
 
 ## Precedence + decisions
 
