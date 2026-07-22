@@ -25,13 +25,21 @@ Updated: 2026-07-22 (Fable onboarding session). Update at every session end.
    unpacked materials.
 3. Then WP C2.x rubric-generation pipeline per the plan.
 
+## Precedence + decisions
+
+- **Precedence (Geoff, 2026-07-22): planning/initial notes = CURRENT
+  intent, supersede user-uploads baseline wherever divergent.** Divergence
+  catalog: docs/plans/changes-from-planning-notes.md (20 items, statused).
+- **ADR-0001 ACCEPTED**: scored Advanced removed; standards rows 0–3 with
+  Meets = max = full credit; offset retired; Advanced is WAGOLL-only.
+  Solution doc is now v2.
+
 ## Open questions (route to Geoff / F-tier)
 
-- Exact current rubric scale wording per class (verify against incoming
-  class templates; directions say 0–4 five-level).
-- Whether "Meets-capped" standards rows (planning doc 007 alternative)
-  should replace the +2/standard offset — awaiting Geoff decision after
-  first batch runs.
+- Exact rubric descriptor WORDING per class (verify against incoming class
+  templates; scale itself is settled by ADR-0001).
+- C0.4 template v2 needs Geoff's one manual GC import test before it
+  becomes canonical.
 - Deployment surface (Render web vs Mac-mini-local vs hybrid) —
   deliberately deferred; plan Phase C4.
 
@@ -39,3 +47,6 @@ Updated: 2026-07-22 (Fable onboarding session). Update at every session end.
 
 - 2026-07-22: Cloned repo, read all planning + uploads, recorded GC rubric
   solution, onboarded structure, wrote implementation plan + intake doc.
+- 2026-07-22 (later): precedence rule recorded; ADR-0001 (0–3 meets=max
+  scale) decided and propagated to solution doc v2, plan, CLAUDE.md;
+  20-item changes catalog extracted from planning notes.

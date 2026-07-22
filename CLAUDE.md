@@ -17,6 +17,17 @@ rubric system.
 5. For deep intent: develop/planning/initial/012 (summary), then others as
    needed (they are context, not implementation dictates)
 
+## Document precedence (Geoff, 2026-07-22)
+
+The develop/planning/initial/ notes are CURRENT intent (written today);
+the user-uploads/ documents are the working baseline from the LAST time
+the class was touched, plus problem history. **Planning notes supersede
+uploads wherever they diverge.** Divergences are cataloged in
+docs/plans/changes-from-planning-notes.md; scoring is governed by
+docs/decisions/ADR-0001 (0–3 meets-=-max scale, no scored Advanced, no
+offset). Check the decision log (docs/decisions/) before relying on any
+uploaded method detail.
+
 ## HARD PRIVACY RULES (student data — non-negotiable)
 
 1. **`protected/` is the ONLY location for any student work or student-
@@ -60,5 +71,7 @@ rubric system.
   at session end.
 - Findings routing per metaOps FINDINGS_TRACKER practice; packets to/from
   other repos per metaOps intake-packet conventions.
-- Rubric scale semantics everywhere: 3 = meets = success; ordinal, never
-  percentage. Holistic carries the grade weight and stays teacher-owned.
+- Rubric scale semantics everywhere (v2/ADR-0001): standards rows 0–3,
+  **Meets = 3 = row max = full credit**; ordinal, never percentage; no
+  scored Advanced (aspirational WAGOLL only). Holistic carries the grade
+  weight and stays teacher-owned.

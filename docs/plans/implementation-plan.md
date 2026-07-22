@@ -32,11 +32,13 @@ gc-blocks.md (title/directions/CA-CCSS paste block), review-notes.md.
 roles, assignments, parent rollup — answers the coverage questions in
 planning doc 008 directly from the repo.
 
-**Grading semantics enforced in code:** ordinal levels; 3=meets=full
-ordinary credit; holistic = total − 4×n at 100/85/75/63/0; offset =
-2×standards recorded per assignment in the registry (so Aeries adjustments
-stay trackable — directly fixes the "easy to lose track" problem in
-planning doc 007).
+**Grading semantics enforced in code (v2 per ADR-0001):** standards rows
+0–3 with **Meets = 3 = row max = full credit** (percentage misreading
+structurally impossible); holistic = total − 3×n at 100/85/75/63/0; the
+former +2/standard offset is RETIRED. Advanced survives only as the
+aspirational WAGOLL tier in visual-learning outputs and unscored
+recognition. WP specs must consume docs/plans/changes-from-planning-notes.md
+rows before delegation (that table is the delegation checklist).
 
 ## Work packages
 
@@ -45,7 +47,8 @@ planning doc 007).
 | WP | What | Tier | Est |
 |----|------|------|-----|
 | C0.1 | GC solution doc + onboarding (DONE 2026-07-22) | F | done |
-| C0.2 | Rubric format validator: script checking GC_RUBRIC_SOLUTION checklist against any .xlsx (openpyxl, fixtures incl. the working template) | O | ~1–2M |
+| C0.2 | Rubric format validator: script checking GC_RUBRIC_SOLUTION v2 checklist against any .xlsx (openpyxl; fixtures incl. v1 template AND v2 fixtures; MUST include the ADR-0001 misreading regression case — percentage-logic grader awards full credit to meets on v2, under-awards on v1) | O | ~1–2M |
+| C0.4 | Produce GC_Rubric_Template_WORKING_v2.xlsx: copy v1 template, standards blocks → 4 levels `3 2 1 0` with "Meets the Standard — Full Credit" top level, ADR-0001 descriptors; validate with C0.2; one manual GC import test by Geoff before it becomes canonical | O build, Geoff verify | ~1M |
 | C0.3 | Anonymization preflight checker: three-state identifier scan (names/emails/IDs/metadata) for files headed to protected/ | O | ~2–3M |
 
 ### Phase C1 — Intake & corpus
@@ -74,7 +77,7 @@ planning doc 007).
 |----|------|------|-----|
 | C3.1 | Wayground-facing level-descriptor emphasis (explicit anti-percentage language in descriptions) + teacher override recording in assignment.yaml | O | ~1–2M |
 | C3.2 | Student-exemplar workflow: protected/ intake → C0.3 preflight → teacher approval → anonymized model linkage to assignments | O | ~2–3M |
-| C3.3 | Meets-capped vs offset decision support: side-by-side grade-impact simulation for Geoff's pending decision (planning doc 007) | F frame, O build | ~1–2M |
+| C3.3 | ~~Meets-capped vs offset decision~~ RESOLVED by ADR-0001 (2026-07-22): scored Advanced removed, offset retired. Residual: optional grade-impact backcheck on first real batch comparing v1-with-offset vs v2 outcomes | O (optional) | ~0.5M |
 
 ### Phase C4 — Interface (deferred by design)
 

@@ -1,8 +1,19 @@
 # GC Rubric Solution — Google Classroom Import Format (SOLVED — do not re-derive)
 
 **Produced by: Claude Fable 5**, reconstructed from the working artifacts.
-Status: OPERATIONAL v1.0, 2026-07-22. This is the permanent record of the
-solved problem "produce a rubric file Google Classroom will import."
+Status: OPERATIONAL **v2.0**, 2026-07-22. This is the permanent record of
+the solved problem "produce a rubric file Google Classroom will import."
+
+> **v2 scoring method is in force (ADR-0001): standards rows are 0–3 with
+> Meets = 3 = row max = full credit; no scored Advanced level; no
+> extra-credit offset. Holistic = Total − (3 × standards).** The §"rubric
+> method" section below records the v1 (v01.08 directions) baseline for
+> history; where they conflict, ADR-0001 and this banner govern. The
+> IMPORT FORMAT sections are unchanged between v1 and v2 — only level
+> count and point values on standards rows changed (points row `3 2 1 0`
+> across columns B–E; four levels, which Google Classroom accepts).
+> Precedence rule (Geoff, 2026-07-22): develop/planning/initial/ notes are
+> CURRENT intent; user-uploads docs are the prior-incarnation baseline.
 Authoritative sources (preserve, never casually rewrite):
 `user-uploads/GC_Rubric_Directions_CURRENT_v01.08 (1).md` (method + workflow),
 `GC_Rubric_Template_STRUCTURE (1).md` (layout guide),
@@ -29,7 +40,25 @@ Column A of rows 3–5 stays EMPTY. No merged cells, no formatting tricks,
 no extra notes, no "Criteria/Level" header table — any of those break import.
 Max 10 criteria per rubric (Google Classroom hard limit).
 
-## The rubric method (teacher's system, from directions v01.08)
+## v2 method deltas (apply ON TOP of the v1 record below)
+
+1. Standards rows: 4 levels — `3 Meets the Standard — Full Credit /
+   2 Progressing / 1 Developing / 0 Missing-Not Assessable`. Meets is the
+   row maximum by construction, so percentage-style grader logic cannot
+   under-award competent work.
+2. `Holistic = Total − (3 × standards)`; 100/85/75/63/0 spread unchanged.
+3. Offset formula (§9 of directions) RETIRED — do not compute or record.
+4. Advanced lives ONLY in visual-learning WAGOLL progressions and unscored
+   feedback recognition, never as a scored level.
+5. Descriptors must still state "highest level = meets = full credit"
+   (defense in depth for AI graders) and carry the completion-based
+   holistic default + citation-attempt/original-analysis language
+   (changes-from-planning-notes #4, #12, #13).
+6. Template: use `GC_Rubric_Template_WORKING_v2.xlsx` once WP C0.4
+   produces it (validated against this section); until then, copy the v1
+   template and adjust standards blocks to 4 levels/`3 2 1 0`.
+
+## The v1 rubric method — historical baseline (directions v01.08)
 
 1. One 0–4 criterion per clearly-warranted CA CCSS standard; title begins
    with the standard code (`RL.9-10.2 - Theme / Central Idea Development`)
@@ -71,8 +100,9 @@ Max 10 criteria per rubric (Google Classroom hard limit).
 
 - [ ] Rows 1–2 exactly as specified (verbatim strings)
 - [ ] Every criterion is a clean 5-row block; col A empty in rows 3–5
-- [ ] Point values descending; standards rows 4/3/2/1/0
-- [ ] Holistic = total − 4×standards; spread 100/85/75/63/0 of holistic
+- [ ] Point values descending; standards rows 3/2/1/0 (v2 — top level name
+      "Meets the Standard — Full Credit"); 4/3/2/1/0 only in v1 history
+- [ ] Holistic = total − 3×standards (v2); spread 100/85/75/63/0 of holistic
 - [ ] Grand total = requested assignment value
 - [ ] ≤ 10 criteria including holistic
 - [ ] No merged cells / headers / notes / formulas / extra sheets touched
