@@ -54,3 +54,10 @@ corpus inventory partially satisfied, C1.2 grouping is next.
 - 2026-07-22 (later): precedence rule recorded; ADR-0001 (0–3 meets=max
   scale) decided and propagated to solution doc v2, plan, CLAUDE.md;
   20-item changes catalog extracted from planning notes.
+
+- 2026-07-23: Root-folder zips processed (3): 412 kept to sources/classes/*/root/,
+  200 discarded-with-inventory (admin/board-images/videos; recoverable from
+  Drive), 4 student-example files quarantined to protected/*/exemplars/
+  pending teacher review, 78 root-vs-template duplicate pairs recorded
+  (canonical = latest Drive mtime). FireShot captures of GC assignment pages
+  kept — partial fill of the instructions gap.
